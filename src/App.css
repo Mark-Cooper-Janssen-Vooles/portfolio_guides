@@ -34,6 +34,16 @@ li {
   list-style-type: none; 
 }
 
+h1 {
+  margin-bottom: 10px;
+}
+
+.Portrait {
+  width: 200px;
+  border-radius: 20px;
+  filter: grayscale(25%);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

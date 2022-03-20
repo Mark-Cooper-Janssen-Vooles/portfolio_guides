@@ -1,4 +1,5 @@
 import './App.css';
+import portrait from './images/resizedimg.png'
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <div className="Content-wrap">
           <h1>markjanssen-webdev-portfolio</h1>
+          {/* <img src={portrait} className="Portrait" alt="Portrait"></img> */}
           <div>
             I'm an architectural graduate turned full stack web software developer based in Australia. Predominantly using Javascript/React, C#/.net and AWS. This space is to detail my ongoing learnings, inspired by https://roadmap.sh/.
           </div>
@@ -21,7 +23,7 @@ function App() {
             </li>
           </ul>
           <div>
-            {/* https://fontawesome.com/v4/icons/ */}
+            {/* usable icons here: https://fontawesome.com/v4/icons/ */}
             <a href="https://www.linkedin.com/in/mark-janssen-vooles-312a77187/">
               <i class="fa fa-linkedin-square" aria-hidden="true" href="https://www.linkedin.com/in/mark-janssen-vooles-312a77187/"></i> 
             </a>
