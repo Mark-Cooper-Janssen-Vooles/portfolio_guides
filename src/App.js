@@ -10,9 +10,15 @@ function App() {
           This space is to detail my ongoing learnings, predominantly inspired by https://roadmap.sh/: 
         </div>
         <ul>
-          <li>https://github.com/Mark-Cooper-Janssen-Vooles/frontend-webdev-guide</li>
-          <li>https://github.com/Mark-Cooper-Janssen-Vooles/backend-webdev-guide</li>
-          <li>https://github.com/Mark-Cooper-Janssen-Vooles/devops-webdev-guide</li>
+          <li>
+            <a href="https://github.com/Mark-Cooper-Janssen-Vooles/frontend-webdev-guide">frontend-webdev-guide</a>
+          </li>
+          <li>
+            <a href="https://github.com/Mark-Cooper-Janssen-Vooles/backend-webdev-guide">backend-webdev-guide</a>
+          </li>
+          <li>
+            <a href="https://github.com/Mark-Cooper-Janssen-Vooles/devops-webdev-guide">devops-webdev-guide</a>
+          </li>
         </ul>
       </header>
     </div>
