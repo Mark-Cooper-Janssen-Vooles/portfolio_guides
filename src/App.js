@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="Content-wrap">
-          <h1>Mark Janssen Portfolio</h1>
+          <h1>markjanssen-webdev-portfolio</h1>
           <div>
             I'm an architectural graduate turned full stack web software developer based in Australia, predominantly using Javascript/React, C#/.net and AWS.
             This space is to detail my ongoing learnings, predominantly inspired by https://roadmap.sh/
