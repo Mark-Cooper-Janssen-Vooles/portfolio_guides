@@ -7,8 +7,7 @@ function App() {
         <div className="Content-wrap">
           <h1>markjanssen-webdev-portfolio</h1>
           <div>
-            I'm an architectural graduate turned full stack web software developer based in Australia, predominantly using Javascript/React, C#/.net and AWS.
-            This space is to detail my ongoing learnings, predominantly inspired by https://roadmap.sh/
+            I'm an architectural graduate turned full stack web software developer based in Australia. Predominantly using Javascript/React, C#/.net and AWS. This space is to detail my ongoing learnings, inspired by https://roadmap.sh/.
           </div>
           <ul>
             <li>
