@@ -21,6 +21,16 @@ function App() {
               <a href="https://github.com/Mark-Cooper-Janssen-Vooles/devops-webdev-guide">devops-webdev-guide</a>
             </li>
           </ul>
+          <div>
+            {/* https://fontawesome.com/v4/icons/ */}
+            <a href="https://www.linkedin.com/in/mark-janssen-vooles-312a77187/">
+              <i class="fa fa-linkedin-square" aria-hidden="true" href="https://www.linkedin.com/in/mark-janssen-vooles-312a77187/"></i> 
+            </a>
+            &nbsp;
+            <a href="https://github.com/Mark-Cooper-Janssen-Vooles/">
+              <i class="fa fa-github-square" aria-hidden="true"></i>
+            </a>
+          </div>
         </div>
       </header>
     </div>
