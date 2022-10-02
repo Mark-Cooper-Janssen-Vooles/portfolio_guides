@@ -1,7 +1,6 @@
 import React, { useRef, Suspense } from 'react';
-import { Html, RoundedBox, useGLTF } from '@react-three/drei';
+import { useGLTF } from '@react-three/drei';
 import { Canvas, useFrame } from '@react-three/fiber'
-import { Mesh } from 'three'
 
 const Lights = () => {
   return (
